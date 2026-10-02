@@ -6,6 +6,7 @@
             "SEARCH"
         ],
         "domains": [
+			"2gis-demo.example",
             "2gis.ae",
             "2gis.am",
             "2gis.az",
